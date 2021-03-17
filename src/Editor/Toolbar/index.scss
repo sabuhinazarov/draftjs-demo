@@ -1,0 +1,9 @@
+.toolbar {
+    display: flex;
+    background-color: #edeff4;
+
+    &__button {
+        padding: 9px 12px;
+        cursor: pointer;
+    }
+}
